@@ -4,23 +4,36 @@
 # 🦅 "𝘞𝘩𝘦𝘳𝘦 𝘥𝘢𝘳𝘬𝘯𝘦𝘴𝘴 𝘮𝘦𝘦𝘵𝘴 𝘪𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦."
 
 ## ☠️ Welcome, Stranger.
-# <!--- About me --->
 ### About Me
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
         <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="300" width="250">
     </div>
-  ```
-muralikarthik07@gi
-```
-  ```markdown
-I'm **Murali Karthik**, where shadows blend with strategy.  
-Here, I don't just code. I orchestrate fate.
 
-- 🩸 Coder by passion, tactician by nature
-- 🦇 Writing silent codes to make loud impacts
-- 💀 Always aiming for precision and perfection
-- 🕷️ Believe in strategy over strength
+```
+suphalbochkar@gi
+```
+
+```markdown
+🎓 Pursuing a Bachelor's in Computer Science
+👨‍💻 Passionate about programming and exploring the world of technology.
+🔎 Main interests: Web Development & java
+🔭 Thriving on building attractive frontend work.
+🌱 Currently diving into java and data structures and algorithms
+💼 Open to collaboration on innovative Web development projects!
+🩸 Coder by passion, tactician by nature
+💀 Need challenges in life to grow 
+🕷️ Believe in strategy over strength
+🚩 work smart,work unique and work exceptional
+🎧 Mostly thinking about somthing right now
+🔥 As fate may be decided,but there is no proff that it cant be changed
+​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+```
+
+  </div>
+</div>
+
+<br>
 <!-- Eagle Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/favicon.png" width="120" />
