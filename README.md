@@ -48,80 +48,23 @@ https://github.com/muralikarthik07
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tech Stack</title>
-
   <!-- Bootstrap 5 CDN link -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEJv3+PQK0pR3C0oMeqNi9EKh0Iu9gYg5E46LZwOvUs7V9mk6w4b13oN6M18S" crossorigin="anonymous">
-
-  <!-- Custom CSS -->
-  <style>
-    /* Style for images and hover animation */
-    .tech-table img {
-      transition: transform 0.5s ease, box-shadow 0.5s ease;
-      margin: 5px;
-      opacity: 0;
-      transform: scale(0.8);
-      animation: popIn 1s forwards;
-    }
-
-    /* Hover effect on badges */
-    .tech-table img:hover {
-      transform: scale(1.1);
-      box-shadow: 0 0 15px #00f7ff;
-    }
-
-    /* Keyframes for image pop-in animation */
-    @keyframes popIn {
-      to {
-        opacity: 1;
-        transform: scale(1);
-      }
-    }
-
-    /* Style for the table */
-    .tech-table {
-      border-collapse: collapse;
-      width: 100%;
-      margin-top: 20px;
-    }
-
-    .tech-table th, .tech-table td {
-      text-align: center;
-      padding: 12px;
-      font-size: 16px;
-      border-radius: 8px;
-      border: 1px solid #ddd;
-    }
-
-    .tech-table th {
-      background-color: #f0f0f0;
-      font-weight: bold;
-    }
-
-    .tech-table td {
-      background-color: #f9f9f9;
-    }
-  </style>
 </head>
 <body>
 
-<!-- Tech Stack Title -->
-<div align="center">
-  <h2>🚀 My Tech Stack</h2>
-</div>
-
-<!-- Table for Tech Badges -->
-<table align="center" class="tech-table">
+<!-- Tech Stack Table -->
+<table class="table table-bordered" align="center" style="width: 80%; margin-top: 20px;">
   <thead>
     <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Database</th>
-      <th>Tools</th>
+      <th scope="col">Frontend</th>
+      <th scope="col">Backend</th>
+      <th scope="col">Database</th>
+      <th scope="col">Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <!-- Frontend Badges -->
       <td align="center">
         <img src="https://skillicons.dev/icons?i=html" height="40" />
         <img src="https://skillicons.dev/icons?i=css" height="40" />
@@ -130,22 +73,16 @@ https://github.com/muralikarthik07
         <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
         <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
       </td>
-
-      <!-- Backend Badges -->
       <td align="center">
         <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
         <img src="https://skillicons.dev/icons?i=express" height="40" />
         <img src="https://skillicons.dev/icons?i=ejs" height="40" />
         <img src="https://skillicons.dev/icons?i=java" height="40" />
       </td>
-
-      <!-- Database Badges -->
       <td align="center">
         <img src="https://skillicons.dev/icons?i=mysql" height="40" />
         <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
       </td>
-
-      <!-- Tools Badges -->
       <td align="center">
         <img src="https://skillicons.dev/icons?i=docker" height="40" />
         <img src="https://skillicons.dev/icons?i=git" height="40" />
