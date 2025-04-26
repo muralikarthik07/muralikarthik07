@@ -42,89 +42,56 @@ https://github.com/muralikarthik07
 
 ---
 ## ✨ Tools & Technologies
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Skills Table</title>
+<!-- Tech Stack Table -->
 
-  <!-- Bootstrap 5 CDN -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  
-  <style>
-    body {
-      background-color: #f8f9fa;
-    }
-    .skills-table {
-      width: 90%;
-      margin: 50px auto;
-      border: 1px solid #dee2e6;
-      border-radius: 10px;
-      overflow: hidden;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-    }
-    th {
-      background-color: #e9ecef;
-      font-size: 20px;
-      padding: 15px;
-    }
-    td {
-      padding: 20px;
-      background-color: #ffffff;
-    }
-    td img, td .badge {
-      margin: 5px;
-    }
-    .badge {
-      font-size: 14px;
-      padding: 8px 12px;
-    }
-  </style>
-</head>
-<body>
-
-<div class="container">
-  <table class="table table-bordered skills-table text-center align-middle">
-    <thead>
-      <tr>
-        <th>Frontend</th>
-        <th>Backend</th>
-        <th>Database</th>
-        <th>Tools</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML" height="30">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS" height="30">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="30">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap.svg" alt="Bootstrap" height="30">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="30">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="ReactJS" height="30">
-        </td>
-        <td>
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="30">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="ExpressJS" height="30">
-        </td>
-        <td>
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="30">
-          <span class="badge bg-warning text-dark">MySQL</span>
-          <span class="badge bg-warning text-dark">SQL</span>
-        </td>
-        <td>
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="30">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="30">
-          <span class="badge bg-info text-dark">VS Code</span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-</body>
-</html>
+<table align="center">
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
+    <th>Tools & Others</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+      <br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+      <br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+      <br>
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+      <br>
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+      <br>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <br>
+      <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
+      <br>
+      <img src="https://img.shields.io/badge/EJS-8CBBF1?logo=ejs&logoColor=black" alt="EJS" />
+      <br>
+      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java (DSA)" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+      <br>
+      <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL" />
+      <br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+      <br>
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+      <br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+      <br>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
+</table>
 
 ---
 
