@@ -42,45 +42,7 @@ https://github.com/muralikarthik07
 
 ### Tech Stack
 
-<div style="display: flex;">
-  <div style="display: flex; flex-direction: column;">
-    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Languages</b> -->
-    <p align="center" style="display: flex; gap: 9px">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML5" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="25" />
-    </p>
-    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Libraries</b> -->
-    <p align="center" style="display: flex; gap: 9px">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap.svg" alt="Bootstrap" height="25" />
-    </p>
-    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Tools</b> -->
-    <p align="center" style="display: flex; gap: 9px">
-      <!-- Version Control -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="25" />
-      <!-- Containerization & Cloud Services -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="25" />
-      <!-- Database & Authentication -->
-    </p>
-        <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Databases</b> -->
-    <p align="center" style="display: flex; gap: 9px">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
-    </p>
-    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">IDEs / Text Editors</b> -->
-    <p align="center" style="display: flex; gap: 9px">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code" height="25" />
-    </p>
-    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Workspace</b> -->
-  </div>
-</div>
-
-<br>
+<table> <tr> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /> <br>HTML5 </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /> <br>CSS3 </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /> <br>JavaScript </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" /> <br>Bootstrap </td> <td align="center" width="100"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="TailwindCSS" /> <br>TailwindCSS </td> </tr> <tr> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="NodeJS" /> <br>NodeJS </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="ExpressJS" /> <br>ExpressJS </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="ReactJS" /> <br>ReactJS </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /> <br>MongoDB </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /> <br>MySQL </td> </tr> <tr> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /> <br>Git </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /> <br>GitHub </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" /> <br>Java </td> </tr> </table>
 
 ### GitHub Stats
 
