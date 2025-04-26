@@ -42,34 +42,45 @@ https://github.com/muralikarthik07
 
 ---
 ## ✨ Tools & Technologies
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <p style="display: flex; gap: 9px;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML5" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="25" />
-    </p>
-    <p style="display: flex; gap: 9px;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap.svg" alt="Bootstrap" height="25" />
-    </p>
-    <p style="display: flex; gap: 9px;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="25" />
-    </p>
-    <p style="display: flex; gap: 9px;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
-    </p>
-    <p style="display: flex; gap: 9px;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code" height="25" />
-    </p>
-  </div>
-</div>
+<table align="center" style="border-collapse: collapse; width: 80%; margin-top: 20px;">
+  <tr>
+    <th style="padding: 10px; text-align: center; font-size: 18px; background-color: #f0f0f0; border-radius: 8px;">Languages</th>
+    <th style="padding: 10px; text-align: center; font-size: 18px; background-color: #f0f0f0; border-radius: 8px;">Libraries</th>
+    <th style="padding: 10px; text-align: center; font-size: 18px; background-color: #f0f0f0; border-radius: 8px;">Tools</th>
+    <th style="padding: 10px; text-align: center; font-size: 18px; background-color: #f0f0f0; border-radius: 8px;">Databases</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML5" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="25" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" /></td>
+    <td align="center"></td> <!-- Empty cell for spacing -->
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code" height="25" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" /></td>
+    <td align="center"></td> <!-- Empty cell for spacing -->
+    <td align="center"></td> <!-- Empty cell for spacing -->
+  </tr>
+  <tr>
+    <td align="center"></td> <!-- Empty cell for spacing -->
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap.svg" alt="Bootstrap" height="25" /></td>
+    <td align="center"></td> <!-- Empty cell for spacing -->
+    <td align="center"></td> <!-- Empty cell for spacing -->
+  </tr>
+</table>
+
 
 ---
 
