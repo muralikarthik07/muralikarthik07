@@ -14,7 +14,7 @@ Here, I don't just code. I orchestrate fate.
 - 🕷️ Believe in strategy over strength
 <!-- Eagle Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/favicon.png" width="120" />
+  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/favicon.png" width="120" />
 </p>
 ---
 
