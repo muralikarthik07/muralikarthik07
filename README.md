@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/banner.png" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;box-shadow: 0 0 20px red;" />
 
-# 🦅 "𝘞𝘩𝘦𝘳𝘦 𝘥𝘢𝘳𝘬𝘯𝘦𝘴𝘴 𝘮𝘦𝘦𝘵𝘴 𝘪𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦."
+# 🦅 "𝓘𝓷𝓽𝓮𝓵𝓵𝓲𝓰𝓮𝓷𝓽 𝓶𝓮𝓷 𝓪𝓻𝓮 𝓭𝓪𝓷𝓰𝓮𝓻𝓸𝓾𝓼."
 
 ## ☠️ Welcome, Stranger.
 ### About Me
@@ -70,7 +70,6 @@ suphalbochkar@gi
         <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Databases</b> -->
     <p align="center" style="display: flex; gap: 9px">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL" height="25" />
     </p>
     <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">IDEs / Text Editors</b> -->
     <p align="center" style="display: flex; gap: 9px">
@@ -101,7 +100,7 @@ suphalbochkar@gi
 <p align="center">
   <strong>
     <span style="font-size: 22px; color: crimson;">
-      "𝓘𝓷𝓽𝓮𝓵𝓵𝓲𝓰𝓮𝓷𝓽 𝓶𝓮𝓷 𝓪𝓻𝓮 𝓭𝓪𝓷𝓰𝓮𝓻𝓸𝓾𝓼."
+      "where the darkness meets intelligence."
     </span>
   </strong>
 </p>
