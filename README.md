@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/pix.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;">
 </p>
 
-# 🌧️ "Intelligent men are more dangerous than the storm."
+#  "🌳🌳Intelligent men are more dangerous than the storm."
 
-## ☠️ Welcome, Stranger.
+##  🌿Welcome, bro/sis.
 <!-- About ME -->
 
 ### About Me
