@@ -70,29 +70,13 @@ https://github.com/muralikarthik07
 <p align="center">
   <strong>
     <em style="font-size: 22px; color: crimson;">
-      "Where the darkness meets intelligence."
+      "Ultimate goal is to grow,not to settle."
     </em>
   </strong>
 </p>
 
 ---
 
-<!-- Three Flowers with a Single Stem -->
-<p align="center">
-  <pre>
-      @@@    @@@    @@@
-     @   @  @   @  @   @
-      @@@    @@@    @@@
-        \      |      /
-         \     |     /
-          \    |    /
-           \   |   /
-            \  |  /
-             \ | /
-              \|/
-               |
-               |
-  </pre>
-</p>
+
 
 
