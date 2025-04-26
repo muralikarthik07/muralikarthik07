@@ -15,21 +15,38 @@
 ```
 https://github.com/muralikarthik07
 ```
+<!-- About ME -->
 
-### 📜 About Me
+### About Me
 
-🎓 Pursuing a Bachelor's in Computer Science  
-  👨‍💻 Passionate about programming and exploring the world of technology  
-  🔎 Main interests: Web Development & Java  
-  🔭 Thriving on building attractive frontend work  
-  🌱 Currently diving into Java and Data Structures and Algorithms  
-  💼 Open to collaboration on innovative Web development projects!  
-  🩸 Coder by passion, tactician by nature  
-  💀 Need challenges in life to grow  
-  🕷 Believe in strategy over strength  
-  🚩 Work smart, work unique, and work exceptional
-   🎧 Mostly thinking about something right now  
- 🔥 Fate may be decided, but there's no proof it can't be changed
+<div class="about-main" style="display: flex;">
+    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
+        <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="300" width="250">
+    </div>
+
+```
+suphalbochkar@github:~$ ./welcome.sh
+```
+
+```markdown
+🎓 Pursuing a Bachelor's in Computer Science
+👨‍💻 Passionate about programming and exploring the world of technology
+🔎 Main interests: Web Development & Java
+🔭 Thriving on building attractive frontend work
+🌱 Currently diving into Java and Data Structures and Algorithms
+💼 Open to collaboration on innovative Web development projects!
+🩸 Coder by passion, tactician by nature
+💀 Need challenges in life to grow
+🕷 Believe in strategy over strength
+🚩 Work smart, work unique, and work exceptional 🎧 Mostly thinking about something right now
+🔥 Fate may be decided, but there's no proof it can't be changed
+​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+```
+
+  </div>
+</div>
+
+<br>
 
 ---
 
