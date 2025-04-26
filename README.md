@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/pix.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;">
 </p>
 
-#  "🌳🌳Intelligent men are more dangerous than the storm."
+#  🌳🌳"Intelligent men are more dangerous than the storm."
 
-##  🌿Welcome, bro/sis.
+##  🌿Welcome, friend.
 <!-- About ME -->
 
 ### About Me
@@ -42,40 +42,34 @@ https://github.com/muralikarthik07
 
 ---
 ## ✨ Tools & Technologies
-<table align="center">
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Database</th>
-    <th>Others</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /></td>
-  </tr>
-</table>
-
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <p style="display: flex; gap: 9px;">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML5" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="25" />
+    </p>
+    <p style="display: flex; gap: 9px;">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap.svg" alt="Bootstrap" height="25" />
+    </p>
+    <p style="display: flex; gap: 9px;">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="25" />
+    </p>
+    <p style="display: flex; gap: 9px;">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
+    </p>
+    <p style="display: flex; gap: 9px;">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code" height="25" />
+    </p>
+  </div>
+</div>
 
 ---
 
