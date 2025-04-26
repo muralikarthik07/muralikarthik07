@@ -23,7 +23,10 @@ Here, I don't just code. I orchestrate fate.
 - 🦇 Writing silent codes to make loud impacts
 - 💀 Always aiming for precision and perfection
 - 🕷️ Believe in strategy over strength
-
+<!-- Eagle Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/favicon.png" width="120" />
+</p>
 ---
 
 ### Tech Stack
