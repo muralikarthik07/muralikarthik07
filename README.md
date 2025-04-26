@@ -47,95 +47,79 @@ https://github.com/muralikarthik07
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tech Stack with Badges</title>
+  <title>Tech Badges</title>
+
   <!-- Bootstrap 5 CDN link -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    table {
+      width: 80%;
+      margin-top: 20px;
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 10px;
+      text-align: center;
+      font-size: 18px;
+      background-color: #f0f0f0;
+      border-radius: 8px;
+    }
+    th {
+      background-color: #f8f9fa;
+    }
+    .badge-img {
+      height: 30px;
+    }
+  </style>
 </head>
 <body>
 
+<!-- Table for Badges -->
 <div class="container mt-5">
-  <h3 class="text-center">Technology Stack with Badges</h3>
   <table class="table table-bordered">
     <thead>
       <tr>
-        <th>Frontend</th>
-        <th>Backend</th>
-        <th>Database</th>
-        <th>Version Control</th>
+        <th>Languages</th>
+        <th>Libraries</th>
+        <th>Tools</th>
+        <th>Databases</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML" height="25" />
-          <br>HTML
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="Node.js" height="25" />
-          <br>Node.js
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
-          <br>MongoDB
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" />
-          <br>Git
-        </td>
+        <!-- Languages Column with SVG Badges -->
+        <td><img class="badge-img" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" /></td>
+        <td><img class="badge-img" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" /></td>
+        <td><span class="badge bg-dark">Git</span></td>
+        <td><img class="badge-img" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" /></td>
       </tr>
       <tr>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS" height="25" />
-          <br>CSS
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" />
-          <br>Express.js
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL" height="25" />
-          <br>MySQL
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="25" />
-          <br>GitHub
-        </td>
+        <!-- Languages Column with SVG Badges -->
+        <td><img class="badge-img" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML5" /></td>
+        <td><img class="badge-img" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" /></td>
+        <td><span class="badge bg-success">GitHub</span></td>
+        <td><img class="badge-img" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" /></td>
       </tr>
       <tr>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap.svg" alt="Bootstrap" height="25" />
-          <br>Bootstrap
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" />
-          <br>Tailwind CSS
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLServer/sqlserver2.svg" alt="SQL Server" height="25" />
-          <br>SQL Server
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="25" />
-          <br>Docker
-        </td>
+        <!-- Languages Column with SVG Badges -->
+        <td><img class="badge-img" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" /></td>
+        <td><img class="badge-img" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" /></td>
+        <td><span class="badge bg-primary">VS Code</span></td>
+        <td><span class="badge bg-warning">MongoDB</span></td>
       </tr>
       <tr>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" height="25" />
-          <br>Java
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React.js" height="25" />
-          <br>React.js
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL" height="25" />
-          <br>PostgreSQL
-        </td>
-        <td align="center">
-          <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code" height="25" />
-          <br>VS Code
-        </td>
+        <!-- Languages Column with SVG Badges -->
+        <td><img class="badge-img" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" /></td>
+        <td><img class="badge-img" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" /></td>
+        <td><span class="badge bg-secondary">NPM</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <!-- Empty cells to align content nicely -->
+        <td></td>
+        <td><img class="badge-img" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap.svg" alt="Bootstrap" /></td>
+        <td></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
