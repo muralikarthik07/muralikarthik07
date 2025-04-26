@@ -42,56 +42,122 @@ https://github.com/muralikarthik07
 
 ---
 ## ✨ Tools & Technologies
-<!-- Tech Stack Table -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tech Stack</title>
 
-<table align="center">
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Database</th>
-    <th>Tools & Others</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-      <br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-      <br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-      <br>
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
-      <br>
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-      <br>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <br>
-      <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
-      <br>
-      <img src="https://img.shields.io/badge/EJS-8CBBF1?logo=ejs&logoColor=black" alt="EJS" />
-      <br>
-      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java (DSA)" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-      <br>
-      <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL" />
-      <br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-      <br>
-      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-      <br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-      <br>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    </td>
-  </tr>
+  <!-- Bootstrap 5 CDN link -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEJv3+PQK0pR3C0oMeqNi9EKh0Iu9gYg5E46LZwOvUs7V9mk6w4b13oN6M18S" crossorigin="anonymous">
+
+  <!-- Custom CSS -->
+  <style>
+    /* Style for images and hover animation */
+    .tech-table img {
+      transition: transform 0.5s ease, box-shadow 0.5s ease;
+      margin: 5px;
+      opacity: 0;
+      transform: scale(0.8);
+      animation: popIn 1s forwards;
+    }
+
+    /* Hover effect on badges */
+    .tech-table img:hover {
+      transform: scale(1.1);
+      box-shadow: 0 0 15px #00f7ff;
+    }
+
+    /* Keyframes for image pop-in animation */
+    @keyframes popIn {
+      to {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+
+    /* Style for the table */
+    .tech-table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px;
+    }
+
+    .tech-table th, .tech-table td {
+      text-align: center;
+      padding: 12px;
+      font-size: 16px;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+    }
+
+    .tech-table th {
+      background-color: #f0f0f0;
+      font-weight: bold;
+    }
+
+    .tech-table td {
+      background-color: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Tech Stack Title -->
+<div align="center">
+  <h2>🚀 My Tech Stack</h2>
+</div>
+
+<!-- Table for Tech Badges -->
+<table align="center" class="tech-table">
+  <thead>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Database</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- Frontend Badges -->
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" height="40" />
+        <img src="https://skillicons.dev/icons?i=css" height="40" />
+        <img src="https://skillicons.dev/icons?i=javascript" height="40" />
+        <img src="https://skillicons.dev/icons?i=react" height="40" />
+        <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
+      </td>
+
+      <!-- Backend Badges -->
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+        <img src="https://skillicons.dev/icons?i=express" height="40" />
+        <img src="https://skillicons.dev/icons?i=ejs" height="40" />
+        <img src="https://skillicons.dev/icons?i=java" height="40" />
+      </td>
+
+      <!-- Database Badges -->
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+      </td>
+
+      <!-- Tools Badges -->
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker" height="40" />
+        <img src="https://skillicons.dev/icons?i=git" height="40" />
+        <img src="https://skillicons.dev/icons?i=github" height="40" />
+        <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+</body>
+</html>
 
 ---
 
