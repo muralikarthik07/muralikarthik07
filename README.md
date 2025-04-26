@@ -4,7 +4,16 @@
 # 🦅 "𝘞𝘩𝘦𝘳𝘦 𝘥𝘢𝘳𝘬𝘯𝘦𝘴𝘴 𝘮𝘦𝘦𝘵𝘴 𝘪𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦."
 
 ## ☠️ Welcome, Stranger.
-
+# <!--- About me --->
+### About Me
+<div class="about-main" style="display: flex;">
+    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
+        <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="300" width="250">
+    </div>
+  ```
+muralikarthik07@gi
+```
+  ```markdown
 I'm **Murali Karthik**, where shadows blend with strategy.  
 Here, I don't just code. I orchestrate fate.
 
