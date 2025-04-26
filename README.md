@@ -1,3 +1,11 @@
+<style>
+img:hover {
+  filter: brightness(70%) saturate(200%) hue-rotate(10deg);
+  transform: scale(1.02);
+  transition: all 0.5s ease-in-out;
+}
+</style>
+
 <!-- Banner Image -->
 <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/banner.png" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;box-shadow: 0 0 20px red;" />
 
