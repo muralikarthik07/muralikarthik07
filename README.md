@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/assets/banner.gif" alt="Murali Karthik Horror Banner" width="100%" style="opacity: 0; animation: fadeIn 2s ease forwards;">
-</p>
-
-<style>
-@keyframes fadeIn {
-  to {
-    opacity: 1;
-  }
-}
-</style>
 <!-- Banner Image -->
 <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/banner.png" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;box-shadow: 0 0 20px red;" />
 
