@@ -42,11 +42,16 @@ https://github.com/muralikarthik07
 
 ---
 
-### ⚔️ Tech Stack
+## ✨ Tools & Technologies
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,nodejs,express,react,mongodb,mysql,git,github,java" />
-</div>
+</p>
+
+<p align="center">
+  <b><i>🌿 Life is all about learning. 🌿</i></b>
+</p>
+
 
 ---
 
