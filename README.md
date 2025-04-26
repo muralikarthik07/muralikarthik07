@@ -42,6 +42,7 @@ https://github.com/muralikarthik07
 
 ---
 ## ✨ Tools & Technologies
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <table align="center" style="border-collapse: collapse; width: 80%; margin-top: 20px;">
   <tr>
     <th style="padding: 10px; text-align: center; font-size: 18px; background-color: #f0f0f0; border-radius: 8px;">Languages</th>
