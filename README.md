@@ -23,13 +23,6 @@ Here, I don't just code. I orchestrate fate.
 
 ---
 
-### ⚙️ Core Skills
-
-![Problem Solver](https://img.shields.io/badge/Problem%20Solver-SharpMind-darkred?style=for-the-badge)
-![Dark Creativity](https://img.shields.io/badge/Dark%20Creativity-Legendary-black?style=for-the-badge)
-![Strategic Coder](https://img.shields.io/badge/Strategic%20Coder-Mastermind-bloodred?style=for-the-badge)
-
----
 
 ### 🩸 Final Thought
 
