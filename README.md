@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/pix.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;">
 </p>
 
-#  🌳🌳"Intelligent men are more dangerous than the storm."
+#  🌳🌳"Intelligent men are more dangerous than the strom."
 
 ##  🌿Welcome, friend.
 <!-- About ME -->
@@ -42,7 +42,18 @@ https://github.com/muralikarthik07
 
 ---
 ## ✨ Tools & Technologies
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tech Badges</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+</head>
+<body>
+
+<!-- Table for Badges -->
 <table align="center" style="border-collapse: collapse; width: 80%; margin-top: 20px;">
   <tr>
     <th style="padding: 10px; text-align: center; font-size: 18px; background-color: #f0f0f0; border-radius: 8px;">Languages</th>
@@ -51,39 +62,44 @@ https://github.com/muralikarthik07
     <th style="padding: 10px; text-align: center; font-size: 18px; background-color: #f0f0f0; border-radius: 8px;">Databases</th>
   </tr>
   <tr>
-    <td align="center"><span class="badge badge-primary">Java</span></td>
-    <td align="center"><span class="badge badge-info">React</span></td>
+    <!-- Languages Column with SVG Badges -->
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" height="25" /></td>
     <td align="center"><span class="badge badge-dark">Git</span></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" /></td>
+  </tr>
+  <tr>
+    <!-- Languages Column with SVG Badges -->
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML5" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="25" /></td>
+    <td align="center"><span class="badge badge-success">GitHub</span></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="25" /></td>
+  </tr>
+  <tr>
+    <!-- Languages Column with SVG Badges -->
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" /></td>
+    <td align="center"><span class="badge badge-primary">VS Code</span></td>
     <td align="center"><span class="badge badge-warning">MongoDB</span></td>
   </tr>
   <tr>
-    <td align="center"><span class="badge badge-danger">HTML5</span></td>
-    <td align="center"><span class="badge badge-success">NodeJS</span></td>
-    <td align="center"><span class="badge badge-light">GitHub</span></td>
-    <td align="center"><span class="badge badge-info">Docker</span></td>
-  </tr>
-  <tr>
-    <td align="center"><span class="badge badge-secondary">CSS3</span></td>
-    <td align="center"><span class="badge badge-primary">Express</span></td>
-    <td align="center"></td> <!-- Empty cell for spacing -->
-    <td align="center"><span class="badge badge-dark">VS Code</span></td>
-  </tr>
-  <tr>
-    <td align="center"><span class="badge badge-warning">JavaScript</span></td>
-    <td align="center"><span class="badge badge-info">TailwindCSS</span></td>
+    <!-- Languages Column with SVG Badges -->
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="25" /></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" /></td>
     <td align="center"></td> <!-- Empty cell for spacing -->
     <td align="center"></td> <!-- Empty cell for spacing -->
   </tr>
   <tr>
+    <!-- Empty cells to align content nicely -->
     <td align="center"></td> <!-- Empty cell for spacing -->
-    <td align="center"><span class="badge badge-light">Bootstrap</span></td>
+    <td align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap.svg" alt="Bootstrap" height="25" /></td>
     <td align="center"></td> <!-- Empty cell for spacing -->
     <td align="center"></td> <!-- Empty cell for spacing -->
   </tr>
 </table>
 
-</table>
-
+</body>
+</html>
 
 ---
 
