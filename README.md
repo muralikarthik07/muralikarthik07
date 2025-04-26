@@ -43,6 +43,8 @@ https://github.com/muralikarthik07
 ---
 ## ✨ Tools & Technologies
 
+## ✨ Tools & Technologies
+
 <table align="center">
   <tr>
     <th>Frontend</th>
