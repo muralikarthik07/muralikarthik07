@@ -42,9 +42,6 @@ https://github.com/muralikarthik07
 
 ---
 ## ✨ Tools & Technologies
-
-## ✨ Tools & Technologies
-
 <table align="center">
   <tr>
     <th>Frontend</th>
@@ -66,29 +63,19 @@ https://github.com/muralikarthik07
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" /></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" /></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" /></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS" /></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /></td>
   </tr>
 </table>
+
 
 ---
 
