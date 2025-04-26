@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/deathnote.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;box-shadow: 0 0 20px red;" />
+<img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/japan.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;box-shadow: 0 0 20px red;" />
 
 # 🦅 "𝓘𝓷𝓽𝓮𝓵𝓵𝓲𝓰𝓮𝓷𝓽 𝓶𝓮𝓷 𝓪𝓻𝓮 𝓭𝓪𝓷𝓰𝓮𝓻𝓸𝓾𝓼."
 
