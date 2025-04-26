@@ -1,8 +1,3 @@
-<!-- Rain Background -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
-</p>
-
 <!-- Banner Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/pix.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;">
@@ -12,11 +7,14 @@
 
 ## ☠️ Welcome, Stranger.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/strom.gif" height="300" width="250" alt="Storm Gif"/>
-</div>
+<div class="about-main" style="display: flex;">
+    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
+        <img align="left" src="strom.gif" height="300" width="250">
+    </div>
 
----
+```
+https://github.com/muralikarthik07
+```
 
 ### 📜 About Me
 
@@ -65,21 +63,21 @@
 
 ---
 
-<!-- Death Note ASCII Art -->
+<!-- Three Flowers with a Single Stem -->
 <p align="center">
   <pre>
-               ______
-           .-        -.
-          /            \
-         |              |
-         |,  .-.  .-.  ,|
-         | )(_o/  \o_)( |
-         |/     /\     \|
-         (_     ^^     _)
-          \__|IIIIII|__/
-           | \IIIIII/ |
-           \          /
-            `--------`
+      @@@    @@@    @@@
+     @   @  @   @  @   @
+      @@@    @@@    @@@
+        \      |      /
+         \     |     /
+          \    |    /
+           \   |   /
+            \  |  /
+             \ | /
+              \|/
+               |
+               |
   </pre>
 </p>
 
