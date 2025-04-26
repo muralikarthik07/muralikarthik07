@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/pix.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;">
 </p>
 
-#  🌳🌳"Intelligent men are more dangerous than the strom."
+# 💧💧 "Intelligent men are more dangerous than the strom."💧💧
 
 ##  🌿Welcome, friend.
 <!-- About ME -->
@@ -41,13 +41,12 @@ https://github.com/muralikarthik07
 <br>
 
 ---
-## ✨ Tools & Technologies
+##🌿Tools & Technologies🌿
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tech Stack</title>
   <!-- Bootstrap 5 CDN link -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEJv3+PQK0pR3C0oMeqNi9EKh0Iu9gYg5E46LZwOvUs7V9mk6w4b13oN6M18S" crossorigin="anonymous">
 </head>
@@ -108,7 +107,7 @@ https://github.com/muralikarthik07
 
 ---
 
-### 🩸 Final Thought
+### 🍁 Final Thought
 
 <p align="center">
   <strong>
