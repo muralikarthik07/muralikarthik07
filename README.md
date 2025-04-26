@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/japan.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;box-shadow: 0 0 20px red;" />
+<img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/pix.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;box-shadow: 0 0 20px red;" />
 
-# 🦅 "𝓘𝓷𝓽𝓮𝓵𝓵𝓲𝓰𝓮𝓷𝓽 𝓶𝓮𝓷 𝓪𝓻𝓮 𝓭𝓪𝓷𝓰𝓮𝓻𝓸𝓾𝓼."
+#  🌧"Intelligent men are dangerous than strom."
 
 ## ☠️ Welcome, Stranger.
 ### About Me
@@ -57,6 +57,7 @@ https://github.com/muralikarthik07
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap.svg" alt="Bootstrap" height="25" />
     </p>
     <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Tools</b> -->
     <p align="center" style="display: flex; gap: 9px">
