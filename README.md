@@ -1,9 +1,9 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/Luffy Luffy One Piece GIF - Luffy Luffy One Piece One Piece - Descobrir e Compartilhar GIFs.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:50px;">
+  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/Luffy Luffy One Piece GIF - Luffy Luffy One Piece One Piece - Descobrir e Compartilhar GIFs.gif" alt="Murali Karthik Banner" width="70%" style="border-radius:50 px;">
 </p>
 
-# " 🔥 As long as i live there are infinite chances ☠️"
+# " 🔥 As long as i am alive there are infinite chances ☠️"
 
 ##  Hi, I am Karthik 
 <!-- About ME -->
