@@ -15,6 +15,12 @@
         <img align="left" src="Roronoa Zoro La définition de la classe ♡ large_gif (500×556).gif" height="300" width="250">
     </div>
 
+
+### linkedIn
+```
+https://www.linkedin.com/in/karthikmurali07/
+```
+### github
 ```
 https://github.com/muralikarthik07
 ```
