@@ -14,16 +14,11 @@
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
         <img align="left" src="Roronoa Zoro La définition de la classe ♡ large_gif (500×556).gif" height="300" width="250">
     </div>
-
-
 ### linkedIn
-```
 https://www.linkedin.com/in/karthikmurali07/
-```
 ### github
-```
 https://github.com/muralikarthik07
-```
+
 
 ```markdown
 🎓 Pursuing a Bachelor's in Computer Science
