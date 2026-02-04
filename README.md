@@ -1,18 +1,18 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/Luffy Luffy One Piece GIF - Luffy Luffy One Piece One Piece - Descobrir e Compartilhar GIFs.gif" alt="Murali Karthik Banner" width="70%" style="border-radius:100px;">
+  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/Luffy Luffy One Piece GIF - Luffy Luffy One Piece One Piece - Descobrir e Compartilhar GIFs.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:50px;">
 </p>
 
-# " As long as i live there are infinite chances "
+# " 🔥 As long as i live there are infinite chances ☠️"
 
-##  Hiiii.
+##  Hi, I am Karthik 
 <!-- About ME -->
 
 ### About Me
 
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="_.jpeg" height="300" width="250">
+        <img align="left" src="Roronoa Zoro La définition de la classe ♡ large_gif (500×556).gif" height="300" width="250">
     </div>
 
 ```
@@ -22,15 +22,11 @@ https://github.com/muralikarthik07
 ```markdown
 🎓 Pursuing a Bachelor's in Computer Science
 👨‍💻 Passionate about programming and exploring the world of technology
-🔎 Main interests: Web Development & Java
-🔭 Thriving on building attractive frontend work
+🔎 Main interests: Web Development , Java(DSA) and AI&ML
 🌱 Currently diving into Java and Data Structures and Algorithms
 💼 Open to collaboration on innovative Web development projects!
 🩸 Coder by passion, tactician by nature
-💀 Need challenges in life to grow
-🕷 Believe in strategy over strength
-🚩 Work smart, work unique, and work exceptional
-🎧 May be thinking about something right now
+💀 Believe in strategy over strength
 🔥 Fate may be decided, but there's no proof it can't be changed
 ​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ```
@@ -84,6 +80,7 @@ https://github.com/muralikarthik07
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=docker" height="40" />
+        <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
         <img src="https://skillicons.dev/icons?i=git" height="40" />
         <img src="https://skillicons.dev/icons?i=github" height="40" />
         <img src="https://skillicons.dev/icons?i=vscode" height="40" />
