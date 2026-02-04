@@ -11,17 +11,15 @@
 ### About Me
 
 <div class="about-main" style="display: flex;">
-    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="Roronoa Zoro La définition de la classe ♡ large_gif (500×556).gif" height="300" width="250">
+    <div align="left" style="display: flex; margin: 10px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
+        <img align="left" src="Roronoa Zoro La définition de la classe ♡ large_gif (500×556).gif" height="700" width="250">
     </div>
-### linkedIn
+
   ```
-https://www.linkedin.com/in/karthikmurali07/
-  ```
-### github
-  ```
-https://github.com/muralikarthik07
+linkedIn : https://www.linkedin.com/in/karthikmurali07/
+Github : https://github.com/muralikarthik07
 ```
+
 ```markdown
 🎓 Pursuing a Bachelor's in Computer Science
 👨‍💻 Passionate about programming and exploring the world of technology
@@ -33,7 +31,6 @@ https://github.com/muralikarthik07
 🔥 Fate may be decided, but there's no proof it can't be changed
 ​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ```
-
   </div>
 </div>
 
