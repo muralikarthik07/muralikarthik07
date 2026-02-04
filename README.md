@@ -97,11 +97,8 @@ https://github.com/muralikarthik07
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muralikarthik07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=muralikarthik07&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralikarthik07&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=muralikarthik07&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
 ---
 
 ### 🍁 Final Thought
