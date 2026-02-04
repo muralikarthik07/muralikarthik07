@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTB0cThoejZkbXF6cWhjMW1lNjk0YnJ2b3NzZDVrbzdxazRsZmF5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ahuAbqDXfE8h0Il82j/giphy.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/" alt="Murali Karthik Banner" width="100%" style="border-radius:10px;">
 </p>
 
 # 💧💧 "Goal is to grow,not to settle"💧💧
