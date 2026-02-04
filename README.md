@@ -3,16 +3,16 @@
   <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/Luffy Luffy One Piece GIF - Luffy Luffy One Piece One Piece - Descobrir e Compartilhar GIFs.gif" alt="Murali Karthik Banner" width="70%" style="border-radius:100px;">
 </p>
 
-# 💧💧 "Goal is to grow,not to settle"💧💧
+# " As long as i live there are infinite chances "
 
-##  🌿Welcome, friend.
+##  Hiiii.
 <!-- About ME -->
 
 ### About Me
 
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="strom.gif" height="300" width="250">
+        <img align="left" src="_.jpeg" height="300" width="250">
     </div>
 
 ```
