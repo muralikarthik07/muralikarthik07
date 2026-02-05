@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/Luffy Luffy One Piece GIF - Luffy Luffy One Piece One Piece - Descobrir e Compartilhar GIFs.gif" alt="Murali Karthik Banner" width="70%" style="border-radius:50 px;">
+  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/Luffy Luffy One Piece GIF - Luffy Luffy One Piece One Piece - Descobrir e Compartilhar GIFs.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:50 px;">
 </p>
 
 # " 🔥 As long as i am alive there are infinite chances ☠️"
@@ -94,11 +94,10 @@ Github : https://github.com/muralikarthik07
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muralikarthik07&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+![Stats](./profile/stats.svg)  
+![Top Langs](./profile/top-langs.svg)  
 ---
 
 ### 🍁 Final Thought
