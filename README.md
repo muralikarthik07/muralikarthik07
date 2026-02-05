@@ -52,14 +52,22 @@ Github : https://github.com/muralikarthik07
 <table class="table table-bordered" align="center" style="width: 80%; margin-top: 20px;">
   <thead>
     <tr>
+      <th scope="col">Programming Languages</th>
       <th scope="col">Frontend</th>
       <th scope="col">Backend</th>
       <th scope="col">Database</th>
+      <th scope="col">AI & ML</th>
+      <th scope="col">Cloud and deployment</th>
       <th scope="col">Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=javascript" height="40" />
+        <img src="https://skillicons.dev/icons?i=java" height="40" />
+        <img src="https://skillicons.dev/icons?i=python" height="40" />
+      </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=html" height="40" />
         <img src="https://skillicons.dev/icons?i=css" height="40" />
@@ -79,11 +87,16 @@ Github : https://github.com/muralikarthik07
         <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker" height="40" />
-        <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
+        <img src="https://skillicons.dev/icons?i=python" height="40" />
+      </td>
+      <td align="center">
+        <img src="https://skill-icons-fast.vercel.app/api/icons?i=render,railway,netlify,sandbox,huggingface,docker,kubernetes&titles=true" height="40" />
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=git" height="40" />
         <img src="https://skillicons.dev/icons?i=github" height="40" />
         <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+        <img src="https://skillicons.dev/icons?i=antigravity" height="40" />
       </td>
     </tr>
   </tbody>
@@ -102,6 +115,8 @@ Github : https://github.com/muralikarthik07
 <a href="https://github.com/muralikarthik07/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=muralikarthik07&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+
+
 
 ### 🍁 Final Thought
 
