@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/Luffy Luffy One Piece GIF - Luffy Luffy One Piece One Piece - Descobrir e Compartilhar GIFs.gif" alt="Murali Karthik Banner" width="100%" style="border-radius:50 px;">
+  <img src="https://raw.githubusercontent.com/muralikarthik07/muralikarthik07/main/Luffy Luffy One Piece GIF - Luffy Luffy One Piece One Piece - Descobrir e Compartilhar GIFs.gif" alt="Murali Karthik Banner" width="70%" style="border-radius:50 px;">
 </p>
 
 # " 🔥 As long as i am alive there are infinite chances ☠️"
@@ -96,9 +96,12 @@ Github : https://github.com/muralikarthik07
 
 ### 📊 GitHub Stats
 
-![Stats](./profile/stats.svg)  
-![Top Langs](./profile/top-langs.svg)  
----
+<a href="https://github.com/muralikarthik07/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=muralikarthik07" />
+</a>
+<a href="https://github.com/muralikarthik07/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=muralikarthik07&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ### 🍁 Final Thought
 
