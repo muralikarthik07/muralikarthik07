@@ -119,7 +119,9 @@ Github : https://github.com/muralikarthik07
 
 <p align="center">
   <a href="https://github.com/muralikarthik07" target="_blank"><img src="https://skill-icons-fast.vercel.app/api/icons?i=github&titles=true"/></a>
+  <br>
   <a href="https://www.linkedin.com/in/muralikarthik07/" target="_blank"><img src="https://skill-icons-fast.vercel.app/api/icons?i=linkedin&titles=true"/></a>
+  <br>
   <a href="mailto:muralikarthikbeeram07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
