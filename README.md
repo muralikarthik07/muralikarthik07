@@ -97,10 +97,10 @@ Github : https://github.com/muralikarthik07
 ### 📊 GitHub Stats
 
 <a href="https://github.com/muralikarthik07/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=muralikarthik07" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=muralikarthik07&theme=dark" />
 </a>
 <a href="https://github.com/muralikarthik07/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=muralikarthik07&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=muralikarthik07&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 ### 🍁 Final Thought
